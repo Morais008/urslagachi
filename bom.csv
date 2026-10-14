@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"C1,C3","2","C","","","","","${EXCLUDE_FROM_POS_FILES}","",""
+"P1","1","USB_C_Plug_USB2.0","","","","","${EXCLUDE_FROM_POS_FILES}","","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+"R1","1","R","","","","","${EXCLUDE_FROM_POS_FILES}","Package_DIP:DIP-8_W7.62mm",""
+"SW1,SW2,SW3","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Package_DIP:DIP-24_W7.62mm",""
+"U1","1","ESP32-S2","","","","","${EXCLUDE_FROM_POS_FILES}","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm","https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf"
+"U2","1","AMS1117","","","","","${EXCLUDE_FROM_POS_FILES}","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+"U3","1","ER_OLEDM0.91_1x-I2C","","","","","${EXCLUDE_FROM_POS_FILES}","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
