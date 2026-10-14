@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-11T18:27:03.693Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvf65z5002f01qrpbb4rlxj). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > a little pet robot that you interact with everyday and it grows the more you interact the friendlier it becomes
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 17.5h | 5 |
+| Week 1 | Tier 2 | 17.5h | 5 |
 
 ## Contents
 
